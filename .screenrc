@@ -1,0 +1,8 @@
+hardstatus on
+hardstatus alwayslastline "%{=b}%{G} Screen(s): %{b}%w"
+
+startup_message off
+
+vbell off
+
+

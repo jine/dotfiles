@@ -1,0 +1,12 @@
+[user]
+	name = Jim Nelin
+	email = jim@jine.se
+[github]
+	user = jine
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
+  ui = true
+  pager = true
